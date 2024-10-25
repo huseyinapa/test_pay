@@ -2,6 +2,7 @@ const whiteList = ["http://localhost:3000",
     "http://localhost:3001",
     "https://www.gulgonenkoop.com",
     "https://api.gulgonenkoop.com",
+    "https://pay.huseyinapa.com",
     "http://3.130.155.44",
     "https://www.huseyinapa.com"]
 // "http://localhost:3000", "http://localhost:3001", 
